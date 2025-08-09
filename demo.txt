@@ -1,1 +1,4 @@
 HELLO GIT/GITHUB
+Name: Hitansh Mittal
+USN: 1BF24CS123
+College: B.M.S College of Engineering
